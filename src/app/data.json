@@ -22,5 +22,17 @@
             "lat": 3.374898,
             "lng": -76.533496
         }
+    },
+    {
+        "id":3 ,
+        "videoId": "4VQpwptiEuE",
+        "nombreObra": "Obra xx3",
+        "contrato": "Número de contrato: 7666",
+        "valorInicial": "Valor inicial: $1.150.000.000COP",
+        "tiempoRetraso": "6 meses",
+        "location": {
+            "lat": 3.304898,
+            "lng": -76.503496
+        }
     }
 ]
