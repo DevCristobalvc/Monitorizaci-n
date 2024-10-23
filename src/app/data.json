@@ -5,11 +5,22 @@
         "nombreObra": "Obra xx1",
         "contrato": "Número de contrato: 1504853",
         "valorInicial": "Valor inicial: $350.000.000COP",
+        "valorAdicionado": "Valor adicionado: $50.000.000COP",
+        "valorFinal": "Valor final: $400.000.000COP",
+        "fechaInicio": "2023-01-15",
+        "fechaTerminacionInicial": "2023-10-15",
+        "fechaTerminacionActual": "2024-07-15",
+        "cantidadOtrosi": 2,
         "tiempoRetraso": "9 meses",
+        "estado": "En ejecución",
+        "enlaceSECOP": "https://www.youtube.com/@EstebanOliverosMontoya",
         "location": {
             "lat": 3.4498239012324067,
             "lng": -76.52944552328202
-            }
+        },
+        "proyecto": "Proyecto de Infraestructura",
+        "contratista": "Constructora XYZ",
+        "objetoContractual": "Construcción de un puente vehicular."
     },
     {
         "id": 2,
@@ -17,34 +28,67 @@
         "nombreObra": "Obra xx2",
         "contrato": "Número de contrato: 1532523",
         "valorInicial": "Valor inicial: $1.150.000.000COP",
-        "tiempoRetraso": "9 meses",
+        "valorAdicionado": "Valor adicionado: $200.000.000COP",
+        "valorFinal": "Valor final: $1.350.000.000COP",
+        "fechaInicio": "2022-05-01",
+        "fechaTerminacionInicial": "2023-11-01",
+        "fechaTerminacionActual": "2024-02-01",
+        "cantidadOtrosi": 1,
+        "tiempoRetraso": "3 meses",
+        "estado": "Finalizado",
+        "enlaceSECOP": "https://www.youtube.com/@EstebanOliverosMontoya",
         "location": {
             "lat": 3.374898,
             "lng": -76.533496
-        }
+        },
+        "proyecto": "Rehabilitación de vías",
+        "contratista": "Construservicios Ltda.",
+        "objetoContractual": "Rehabilitación de la vía principal del sector."
     },
     {
-        "id":3 ,
+        "id": 3,
         "videoId": "4VQpwptiEuE",
         "nombreObra": "Obra xx3",
         "contrato": "Número de contrato: 7666",
         "valorInicial": "Valor inicial: $1.150.000.000COP",
+        "valorAdicionado": "Valor adicionado: $100.000.000COP",
+        "valorFinal": "Valor final: $1.250.000.000COP",
+        "fechaInicio": "2022-09-15",
+        "fechaTerminacionInicial": "2023-03-15",
+        "fechaTerminacionActual": "2023-09-15",
+        "cantidadOtrosi": 3,
         "tiempoRetraso": "6 meses",
+        "estado": "En ejecución",
+        "enlaceSECOP": "https://www.youtube.com/@EstebanOliverosMontoya",
         "location": {
             "lat": 3.304898,
             "lng": -76.503496
-        }
+        },
+        "proyecto": "Construcción de escuela",
+        "contratista": "Edificaciones ABC",
+        "objetoContractual": "Construcción de una escuela en la zona rural."
     },
     {
-        "id":4 ,
+        "id": 4,
         "videoId": "4VQpwptiEuE",
         "nombreObra": "Obra xx4",
         "contrato": "Número de contrato: 7666",
         "valorInicial": "Valor inicial: $1.150.000.000COP",
-        "tiempoRetraso": "6 meses",
+        "valorAdicionado": "Valor adicionado: $150.000.000COP",
+        "valorFinal": "Valor final: $1.300.000.000COP",
+        "fechaInicio": "2022-12-01",
+        "fechaTerminacionInicial": "2023-09-01",
+        "fechaTerminacionActual": "2024-01-01",
+        "cantidadOtrosi": 4,
+        "tiempoRetraso": "4 meses",
+        "estado": "En ejecución",
+        "enlaceSECOP": "https://www.youtube.com/@EstebanOliverosMontoya",
         "location": {
             "lat": 3.401359,
             "lng": -76.510234
-        }
+        },
+        "proyecto": "Mejoramiento de infraestructura educativa",
+        "contratista": "Grupo Constructor LMN",
+        "objetoContractual": "Mejoramiento de la infraestructura de una institución educativa."
     }
 ]

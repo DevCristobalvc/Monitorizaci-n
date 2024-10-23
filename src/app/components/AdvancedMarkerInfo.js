@@ -1,7 +1,28 @@
 import { useAdvancedMarkerRef, Pin, InfoWindow, AdvancedMarker } from "@vis.gl/react-google-maps";
 import YoutubeVideo from "../components/Video";
 
-const AdvancedMarkerInfo = ({ position, nombreObra, contrato, valorInicial, tiempoRetraso, videoId, activeMarkerId, setActiveMarkerId, markerId }) => {
+const AdvancedMarkerInfo = ({
+    position,
+    nombreObra,
+    contrato,
+    valorInicial,
+    tiempoRetraso,
+    videoId,
+    activeMarkerId,
+    setActiveMarkerId,
+    markerId,
+    proyecto,
+    contratista,
+    objetoContractual,
+    valorAdicionado,
+    valorFinal,
+    fechaInicio,
+    fechaTerminacionInicial,
+    fechaTerminacionActual,
+    cantidadOtrosi,
+    estado,
+    enlaceSECOP,
+}) => {
     const [markerRef, marker] = useAdvancedMarkerRef();
     const openWindow = activeMarkerId === markerId;
 
@@ -17,9 +38,20 @@ const AdvancedMarkerInfo = ({ position, nombreObra, contrato, valorInicial, tiem
                     <div>
                         <YoutubeVideo videoId={videoId} />
                         <h1>{nombreObra}</h1>
-                        <p>{contrato}</p>
-                        <p>{valorInicial}</p>
-                        <p>{tiempoRetraso}</p>
+                        <p><strong>Contrato:</strong> {contrato}</p>
+                        <p><strong>Proyecto:</strong> {proyecto}</p>
+                        <p><strong>Contratista:</strong> {contratista}</p>
+                        <p><strong>Objeto Contractual:</strong> {objetoContractual}</p>
+                        <p><strong>Valor Inicial:</strong> {valorInicial}</p>
+                        <p><strong>Valor Adicionado:</strong> {valorAdicionado}</p>
+                        <p><strong>Valor Final:</strong> {valorFinal}</p>
+                        <p><strong>Fecha de Inicio:</strong> {fechaInicio}</p>
+                        <p><strong>Fecha de Terminación Inicial:</strong> {fechaTerminacionInicial}</p>
+                        <p><strong>Fecha de Terminación Actual:</strong> {fechaTerminacionActual}</p>
+                        <p><strong>Cantidad de Otrosí:</strong> {cantidadOtrosi}</p>
+                        <p><strong>Tiempo de Retraso:</strong> {tiempoRetraso}</p>
+                        <p><strong>Estado:</strong> {estado}</p>
+                        <p><a href={enlaceSECOP} target="_blank" rel="noopener noreferrer">Ver contrato</a></p>
                     </div>
                 </InfoWindow>
             )}
