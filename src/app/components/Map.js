@@ -30,10 +30,21 @@ const GoogleMap = () => {
                         nombreObra={loc.nombreObra}
                         contrato={loc.contrato}
                         valorInicial={loc.valorInicial}
+                        valorAdicionado={loc.valorAdicionado} // Nuevo campo
+                        valorFinal={loc.valorFinal} // Nuevo campo
+                        fechaInicio={loc.fechaInicio} // Nuevo campo
+                        fechaTerminacionInicial={loc.fechaTerminacionInicial} // Nuevo campo
+                        fechaTerminacionActual={loc.fechaTerminacionActual} // Nuevo campo
+                        cantidadOtrosi={loc.cantidadOtrosi} // Nuevo campo
                         tiempoRetraso={loc.tiempoRetraso}
+                        estado={loc.estado} // Nuevo campo
+                        enlaceSECOP={loc.enlaceSECOP} // Nuevo campo
                         markerId={loc.id} // Pasamos el ID del marcador
                         activeMarkerId={activeMarkerId}
                         setActiveMarkerId={setActiveMarkerId} // Pasamos la función para actualizar el marcador activo
+                        proyecto={loc.proyecto} // Nuevo campo
+                        contratista={loc.contratista} // Nuevo campo
+                        objetoContractual={loc.objetoContractual} // Nuevo campo
                     />
                 ))}
             </Map>
