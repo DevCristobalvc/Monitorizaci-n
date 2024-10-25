@@ -2,25 +2,25 @@
     {
         "id": 1,
         "videoId": "4VQpwptiEuE",
-        "nombreObra": "Obra xx1",
-        "contrato": "Número de contrato: 1504853",
-        "valorInicial": "$350.000.000COP",
-        "valorAdicionado": "$50.000.000COP",
-        "valorFinal": "$400.000.000COP",
-        "fechaInicio": "2023-01-15",
-        "fechaTerminacionInicial": "2023-10-15",
-        "fechaTerminacionActual": "2024-07-15",
-        "cantidadOtrosi": 2,
-        "tiempoRetraso": "9 meses",
+        "nombreObra": "Parque principal",
+        "proyecto": "Proyecto de Infraestructura",
+        "contrato": "Número de contrato: 1.320-12.13-0104",
+        "contratista": "Constructora XYZ",
+        "objetoContractual": "Realizar mediante el sistema de precios unitarios las obras de los siguientes proyectos: grupo 1: mejoramiento del parque la isleta del municipio de cartago.; grupo 2: construcción corredor turístico calle real del municipio de sevilla"
+        "valorInicial": "$2,545,022,872",
+        "valorAdicionado": "$690,612,940",
+        "valorFinal": "$3,235,635,812",
+        "fechaInicio": "01/diciembre/2022",
+        "fechaTerminacionInicial": "31/diciembre/2022",
+        "fechaTerminacionActual": "27/septiembre/2024",
+        "cantidadOtrosi": 7,
+        "tiempoRetraso": "21 meses",
         "estado": "En ejecución",
         "enlaceSECOP": "https://www.youtube.com/@EstebanOliverosMontoya",
         "location": {
-            "lat": 3.4498239012324067,
-            "lng": -76.52944552328202
+            "lat": 4.264404,
+            "lng": -75.934393
         },
-        "proyecto": "Proyecto de Infraestructura",
-        "contratista": "Constructora XYZ",
-        "objetoContractual": "Construcción de un puente vehicular."
     },
     {
         "id": 2,
