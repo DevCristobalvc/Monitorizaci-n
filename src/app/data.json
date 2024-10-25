@@ -3,8 +3,31 @@
         "id": 1,
         "videoId": "4VQpwptiEuE",
         "nombreObra": "Parque principal",
-        "proyecto": "Proyecto de Infraestructura",
+        "proyecto": "Parques para la gente",
         "contrato": "1.320-12.13-0104",
+        "contratista": "Constructora XYZ",
+        "objetoContractual": "Realizar mediante el sistema de precios unitarios las obras de los siguientes proyectos: grupo 1: mejoramiento del parque la isleta del municipio de cartago.; grupo 2: construcción corredor turístico calle real del municipio de sevilla"
+        "valorInicial": "$2,545,022,872",
+        "valorAdicionado": "$690,612,940",
+        "valorFinal": "$3,235,635,812",
+        "fechaInicio": "01/diciembre/2022",
+        "fechaTerminacionInicial": "31/diciembre/2022",
+        "fechaTerminacionActual": "27/septiembre/2024",
+        "cantidadOtrosi": "7",
+        "tiempoRetraso": "21 meses",
+        "estado": "En ejecución",
+        "enlaceSECOP": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.2855334&isFromPublicArea=True&isModal=False",
+        "location": {
+            "lat": 4.264404,
+            "lng": -75.934393
+        },
+    },
+    {
+        "id": 2,
+        "videoId": "4VQpwptiEuE",
+        "nombreObra": "Parque principal",
+        "proyecto": "Parques para la gente",
+        "contrato": "1.320-12.13- 0105",
         "contratista": "Constructora XYZ",
         "objetoContractual": "Realizar mediante el sistema de precios unitarios las obras de los siguientes proyectos: grupo 1: mejoramiento del parque la isleta del municipio de cartago.; grupo 2: construcción corredor turístico calle real del municipio de sevilla"
         "valorInicial": "$2,545,022,872",
@@ -21,29 +44,6 @@
             "lat": 4.264404,
             "lng": -75.934393
         },
-    },
-    {
-        "id": 2,
-        "videoId": "4VQpwptiEuE",
-        "nombreObra": "Obra xx2",
-        "contrato": "Número de contrato: 1532523",
-        "valorInicial": "$1.150.000.000COP",
-        "valorAdicionado": "$200.000.000COP",
-        "valorFinal": "$1.350.000.000COP",
-        "fechaInicio": "2022-05-01",
-        "fechaTerminacionInicial": "2023-11-01",
-        "fechaTerminacionActual": "2024-02-01",
-        "cantidadOtrosi": 1,
-        "tiempoRetraso": "3 meses",
-        "estado": "Finalizado",
-        "enlaceSECOP": "https://www.youtube.com/@EstebanOliverosMontoya",
-        "location": {
-            "lat": 3.374898,
-            "lng": -76.533496
-        },
-        "proyecto": "Rehabilitación de vías",
-        "contratista": "Construservicios Ltda.",
-        "objetoContractual": "Rehabilitación de la vía principal del sector."
     },
     {
         "id": 3,
