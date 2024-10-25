@@ -20,7 +20,7 @@
         "location": {
             "lat": 4.264404,
             "lng": -75.934393
-        },
+        }
     },
     {
         "id": 2,
@@ -43,12 +43,12 @@
         "location": {
             "lat": 4.751574,
             "lng": -75.910353
-        },
+        }
     },
     {
         "id": 3,
         "videoId": "4VQpwptiEuE",
-        "nombreObra": "Obra xx3",
+        "nombreObra": "Obra xx3sfbvdfsbdfbdf",
         "contrato": "Número de contrato: 7666",
         "valorInicial": "$1.150.000.000COP",
         "valorAdicionado": "$100.000.000COP",
