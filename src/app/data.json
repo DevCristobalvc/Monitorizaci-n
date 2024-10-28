@@ -1,11 +1,11 @@
 [
     {
-        "id": 1,
+        "id": 1, //SEVILLA
         "videoId": "4VQpwptiEuE",
         "nombreObra": "Parque principal La Concordia",
         "proyecto": "Parques para la gente",
         "contrato": "1.320-12.13-0104",
-        "contratista": "Constructora XYZ",
+        "contratista": "Consorcio Parque Sevilla",
         "objetoContractual": "Realizar mediante el sistema de precios unitarios las obras de los siguientes proyectos:\nGrupo 1: Mejoramiento del parque la isleta del municipio de Cartago.\nGrupo 2: construcción corredor turístico calle real del municipio de Sevilla.",
         "valorInicial": "$2,545,022,872",
         "valorAdicionado": "$690,612,940",
@@ -23,7 +23,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 2, //CARTAGO
         "videoId": "4VQpwptiEuE",
         "nombreObra": "Parque La Isleta",
         "proyecto": "Parques para la gente",
@@ -117,11 +117,11 @@
     {
         "id": 6,
         "videoId": "4VQpwptiEuE",
-        "nombreObra": "Parque La Isleta",
+        "nombreObra": "Parque Principal",
         "proyecto": "Parques para la gente",
-        "contrato": "1.320-12.13- 0105",
-        "contratista": "Consorcio Parque Isleta",
-        "objetoContractual": "Realizar mediante el sistema de precios unitarios las obras de los siguientes proyectos: Grupo 1: Mejoramiento del parque la isleta del municipio de Cartago.; Grupo 2: construcción corredor turístico calle real del municipio de Sevilla",
+        "contrato": "1.320-12.13-0111",
+        "contratista": "Consorcio Parques UB",
+        "objetoContractual": "Realizar mediante el sistema de precios unitarios las obras de los siguientes proyectos:\nGrupo 1: mejoramiento y adecuacion parque Simón Bolívar. Municipio de Ulloa, departamento del Valle del Cauca; y mejoramiento parque principal Municipio de Bugalagrande, Departamento del Valle del Cauca.\nGrupo 2: mejoramiento atrio iglesia parque principal Municipio de Argelia.; grupo 3: mejoramiento y dotacion mobiliario urbano en el parque principal del Municipio de Versalles, Departamento del Valle del Cauca",
         "valorInicial": "$7,977,640,689",
         "valorAdicionado": "$3,909,043,938",
         "valorFinal": "$11,886,684,627",
