@@ -1,6 +1,6 @@
 [
     {
-        "id": 1, //SEVILLA
+        "id": 1,
         "videoId": "4VQpwptiEuE",
         "nombreObra": "Parque principal La Concordia",
         "proyecto": "Parques para la gente",
@@ -23,7 +23,7 @@
         }
     },
     {
-        "id": 2, //CARTAGO
+        "id": 2, 
         "videoId": "4VQpwptiEuE",
         "nombreObra": "Parque La Isleta",
         "proyecto": "Parques para la gente",
