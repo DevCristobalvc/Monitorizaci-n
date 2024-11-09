@@ -228,5 +228,28 @@
             "lat": 4.609014,
             "lng": -76.082405
         }
+    },
+    {
+        "id": 11,
+        "videoId": "qZCBGWG-SzY",
+        "nombreObra": "Parque Principal - Riofrío",
+        "proyecto": "Parques para la gente",
+        "contrato": "1.320-12.13- 0109",
+        "contratista": "Consorcio Parques del Valle 2022",
+        "objetoContractual": "Realizar mediante el sistema de precios unitarios mejoramiento del corredor comercial del municipio de toro y mejoramiento y remodelación del parque diego garces del muncipio de rio frio del departamento del valle del cauca obra que se encuentra incluida en el proyecto de inversion apoyo para la ejecucion de obras de infraestructura para la adecuacion de espacios destinados al turismo la cultura el habitat y la recreacion en el departamento del valle del cauca",
+        "valorInicial": "$5,674,900,000",
+        "valorAdicionado": "$2,548,430,583",
+        "valorFinal": "$8,223,330,583",
+        "fechaInicio": "05/septiembre/2022",
+        "fechaTerminacionInicial": "31/diciembre/2022",
+        "fechaTerminacionActual": "16/septiembre/2024",
+        "cantidadOtrosi": "10",
+        "tiempoRetraso": "22 meses",
+        "estado": "En ejecución",
+        "enlaceSECOP": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.2927119&isFromPublicArea=True&isModal=False",
+        "location": {
+            "lat": 4.0921,
+            "lng": -76.1715
+        }
     }
 ]
