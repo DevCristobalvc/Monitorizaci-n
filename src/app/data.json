@@ -251,5 +251,74 @@
             "lat": 4.15584,
             "lng": -76.28767
         }
+    },
+    {
+        "id": 12, 
+        "videoId": "H3sjdz1r5yc",
+        "nombreObra": "Parque Principal Ginebra",
+        "proyecto": "Parques para la gente",
+        "contrato": "1.320-12.13- 0139",
+        "contratista": "Vida Nueva Arquitectura e Ingeniería",
+        "objetoContractual": "Realizar mediante el sistema de precios unitarios las obras de los siguientes proyectos: grupo 1: mejoramiento parque del cholado municipio de jamundi, departamento del valle del cauca y grupo 2: mejoramiento y adecuacion del parque principal simon bolivar municipio de ginebra, departamento del valle del cauca.",
+        "valorInicial": "$5,389,802,184",
+        "valorAdicionado": "$743,627,564",
+        "valorFinal": "$6,133,429,784",
+        "fechaInicio": "09/diciembre/2022",
+        "fechaTerminacionInicial": "31/diciembre/2022",
+        "fechaTerminacionActual": "30/octubre/2024",
+        "cantidadOtrosi": "9",
+        "tiempoRetraso": "22 meses",
+        "estado": "Suspendido",
+        "enlaceSECOP": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.2943707&isFromPublicArea=True&isModal=False",
+        "location": {
+            "lat": 3.72369,
+            "lng": -76.26878
+        }
+    },
+    {
+        "id": 13, 
+        "videoId": "H3sjdz1r5yc",
+        "nombreObra": "Parque de los Cholados - Jamundí",
+        "proyecto": "Parques para la gente",
+        "contrato": "1.320-12.13- 0140",
+        "contratista": "Consorcio Parque Cholado 2022",
+        "objetoContractual": "Realizar mediante el sistema de precios unitarios las obras de los siguientes proyectos: grupo 1: mejoramiento parque del cholado municipio de jamundi, departamento del valle del cauca y grupo 2: mejoramiento y adecuacion del parque principal simon bolivar municipio de ginebra, departamento del valle del cauca.",
+        "valorInicial": "$7,936,859,005",
+        "valorAdicionado": "$3,968,429,502",
+        "valorFinal": "$11,905,288,507",
+        "fechaInicio": "09/diciembre/2022",
+        "fechaTerminacionInicial": "31/diciembre/2022",
+        "fechaTerminacionActual": "30/octubre/2024",
+        "cantidadOtrosi": "9",
+        "tiempoRetraso": "22 meses",
+        "estado": "En ejecución",
+        "enlaceSECOP": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.2943707&isFromPublicArea=True&isModal=False",
+        "location": {
+            "lat": 3.26457,
+            "lng": -76.53758
+        }
+    },
+    {
+        "id": 14, 
+        "videoId": "H3sjdz1r5yc",
+        "nombreObra": "Parque de los Cholados - Jamundí",
+        "proyecto": "Parques para la gente",
+        "contrato": "1.320-12.13- 0140",
+        "contratista": "Consorcio Parque Cholado 2022",
+        "objetoContractual": "Realizar mediante el sistema de precios unitarios las obras de los siguientes proyectos: grupo 1: mejoramiento parque del cholado municipio de jamundi, departamento del valle del cauca y grupo 2: mejoramiento y adecuacion del parque principal simon bolivar municipio de ginebra, departamento del valle del cauca.",
+        "valorInicial": "$7,936,859,005",
+        "valorAdicionado": "$3,968,429,502",
+        "valorFinal": "$11,905,288,507",
+        "fechaInicio": "09/diciembre/2022",
+        "fechaTerminacionInicial": "31/diciembre/2022",
+        "fechaTerminacionActual": "30/octubre/2024",
+        "cantidadOtrosi": "9",
+        "tiempoRetraso": "22 meses",
+        "estado": "En ejecución",
+        "enlaceSECOP": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.2943707&isFromPublicArea=True&isModal=False",
+        "location": {
+            "lat": 3.26457,
+            "lng": -76.53758
+        }
     }
 ]
