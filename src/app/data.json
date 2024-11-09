@@ -140,6 +140,29 @@
     {
         "id": 7,
         "videoId": "qZCBGWG-SzY",
+        "nombreObra": "Parque Principal Bugalagrande",
+        "proyecto": "Parques para la gente",
+        "contrato": "1.320-12.13-0111",
+        "contratista": "Consorcio Parques UB",
+        "objetoContractual": "Realizar mediante el sistema de precios unitarios las obras de los siguientes proyectos:\nGrupo 1: mejoramiento y adecuacion parque Simón Bolívar. Municipio de Ulloa, departamento del Valle del Cauca; y mejoramiento parque principal Municipio de Bugalagrande, Departamento del Valle del Cauca.\nGrupo 2: mejoramiento atrio iglesia parque principal Municipio de Argelia.; grupo 3: mejoramiento y dotacion mobiliario urbano en el parque principal del Municipio de Versalles, Departamento del Valle del Cauca",
+        "valorInicial": "$5,226,000,000",
+        "valorAdicionado": "$683,113,965",
+        "valorFinal": "$5,909,113,965",
+        "fechaInicio": "31/agosto/2022",
+        "fechaTerminacionInicial": "31/diciembre/2022",
+        "fechaTerminacionActual": "16/septiembre/2024",
+        "cantidadOtrosi": "10",
+        "tiempoRetraso": "22 meses",
+        "estado": "En ejecución",
+        "enlaceSECOP": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.2922909&isFromPublicArea=True&isModal=False",
+        "location": {
+            "lat": 4.21218,
+            "lng": -76.156865
+        }
+    },
+    {
+        "id": 8,
+        "videoId": "qZCBGWG-SzY",
         "nombreObra": "Parque Principal de Yotoco",
         "proyecto": "Parques para la gente",
         "contrato": "1.320-12.13- 0112",
@@ -161,7 +184,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 9,
         "videoId": "qZCBGWG-SzY",
         "nombreObra": "Parque Principal La Paila - Zarzal",
         "proyecto": "Parques para la gente",
@@ -178,29 +201,6 @@
         "tiempoRetraso": "22 meses",
         "estado": "Suspendido",
         "enlaceSECOP": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.2929031&isFromPublicArea=True&isModal=False",
-        "location": {
-            "lat": 4.318306,
-            "lng": -76.074156
-        }
-    },
-    {
-        "id": 9,
-        "videoId": "qZCBGWG-SzY",
-        "nombreObra": "Parque La Isleta",
-        "proyecto": "Parques para la gente",
-        "contrato": "1.320-12.13- 0105",
-        "contratista": "Consorcio Parque Isleta",
-        "objetoContractual": "Realizar mediante el sistema de precios unitarios las obras de los siguientes proyectos: Grupo 1: Mejoramiento del parque la isleta del municipio de Cartago.; Grupo 2: construcción corredor turístico calle real del municipio de Sevilla",
-        "valorInicial": "$7,977,640,689",
-        "valorAdicionado": "$3,909,043,938",
-        "valorFinal": "$11,886,684,627",
-        "fechaInicio": "12/octubre/2022",
-        "fechaTerminacionInicial": "31/diciembre/2022",
-        "fechaTerminacionActual": "14/noviembre/2024",
-        "cantidadOtrosi": "6",
-        "tiempoRetraso": "21 meses",
-        "estado": "En ejecución",
-        "enlaceSECOP": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.2855334&isFromPublicArea=True&isModal=False",
         "location": {
             "lat": 4.318306,
             "lng": -76.074156
@@ -316,6 +316,29 @@
         "tiempoRetraso": "22 meses",
         "estado": "En ejecución",
         "enlaceSECOP": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.2943707&isFromPublicArea=True&isModal=False",
+        "location": {
+            "lat": 3.26457,
+            "lng": -76.53758
+        }
+    },
+    {
+        "id": 15, 
+        "videoId": "H3sjdz1r5yc",
+        "nombreObra": "Parque de los Cholados - Jamundí",
+        "proyecto": "Parques para la gente",
+        "contrato": "1.320-12.13- 0140",
+        "contratista": "Consorcio Parque Cholado 2022",
+        "objetoContractual": "Realizar mediante el sistema de precios unitarios las obras de los siguientes proyectos: grupo 1: mejoramiento parque del cholado municipio de jamundi, departamento del valle del cauca y grupo 2: mejoramiento y adecuacion del parque principal simon bolivar municipio de ginebra, departamento del valle del cauca.",
+        "valorInicial": "$1,294,812,101",
+        "valorAdicionado": "$619,790,000",
+        "valorFinal": "$1,914,602,101",
+        "fechaInicio": "15/agosto/2023",
+        "fechaTerminacionInicial": "15/diciembre/2023",
+        "fechaTerminacionActual": "13/agosto/2024",
+        "cantidadOtrosi": "3",
+        "tiempoRetraso": "10 meses",
+        "estado": "En ejecución",
+        "enlaceSECOP": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.3691770",
         "location": {
             "lat": 3.26457,
             "lng": -76.53758
