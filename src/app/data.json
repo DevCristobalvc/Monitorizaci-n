@@ -343,5 +343,51 @@
             "lat": 3.26457,
             "lng": -76.53758
         }
+    },
+    {
+        "id": 16, 
+        "videoId": "qZCBGWG-SzY",
+        "nombreObra": "Nombre",
+        "proyecto": "Nombre proyecto o programa",
+        "contrato": "1.320-59.2-01-0151",
+        "contratista": "Ejecutor",
+        "objetoContractual": "",
+        "valorInicial": "$230,000,000",
+        "valorAdicionado": "$0",
+        "valorFinal": "$230,000,000",
+        "fechaInicio": "17/julio/2023",
+        "fechaTerminacionInicial": "30/noviembre/2023",
+        "fechaTerminacionActual": "00/00/00",
+        "cantidadOtrosi": "0",
+        "tiempoRetraso": "00 meses",
+        "estado": "En ejecución",
+        "enlaceSECOP": "",
+        "location": {
+            "lat": 3.55301,
+            "lng": -76.29763
+        }
+    },
+    {
+        "id": 17, 
+        "videoId": "qZCBGWG-SzY",
+        "nombreObra": "Parque de la Carbonera",
+        "proyecto": "Nombre proyecto o programa",
+        "contrato": "1.320-59.2-01-0151",
+        "contratista": "Consorcio Carbonera 2019",
+        "objetoContractual": "",
+        "valorInicial": "$17,000,000,000",
+        "valorAdicionado": "$6,000,000,000",
+        "valorFinal": "$23,000,000,000",
+        "fechaInicio": "17/julio/2019",
+        "fechaTerminacionInicial": "30/noviembre/2021",
+        "fechaTerminacionActual": "01/06/2023",
+        "cantidadOtrosi": "0",
+        "tiempoRetraso": "24 meses",
+        "estado": "Construcción entregada con problemas de diseño y seguridad",
+        "enlaceSECOP": "",
+        "location": {
+            "lat": 3.55301,
+            "lng": -76.29763
+        }
     }
 ]
