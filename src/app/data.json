@@ -346,6 +346,52 @@
     },
     {
         "id": 16, 
+        "videoId1": "qZCBGWG-SzY",
+        "nombreObra": "Parque Carbonera",
+        "proyecto": "Parque de la Carbonera - Palmira",
+        "contrato": "1.320-59.2-01-0151",
+        "contratista": "Ejecutor",
+        "objetoContractual": "",
+        "valorInicial": "$230,000,000",
+        "valorAdicionado": "$0",
+        "valorFinal": "$230,000,000",
+        "fechaInicio": "17/julio/2023",
+        "fechaTerminacionInicial": "30/noviembre/2023",
+        "fechaTerminacionActual": "00/00/00",
+        "cantidadOtrosi": "0",
+        "tiempoRetraso": "00 meses",
+        "estado": "Construcción entregada con problemas de diseño y seguridad, cerrada al público por obras del Boulevard la Carbonera para terminar las zonas exteriores. Toboganes en abandono inutilizados.",
+        "enlaceSECOP": "",
+        "location": {
+            "lat": 3.55301,
+            "lng": -76.29763
+        }
+    },
+    {
+        "id": 18, 
+        "videoId": "FVbe7R8k5Xs",
+        "nombreObra": "PTAR - Palmira",
+        "proyecto": "Planta de Tratamiento de Aguas Residuales - Ex Alcalde Jairo Samboni y Dilian Francisca Toro",
+        "contrato": "MP-1603-2018",
+        "contratista": "CONSORCIO PTAR PW (Inhabilitado)",
+        "objetoContractual": "Construcción de la primera fase de colectores, planta de tratamiento de aguas residuales para la ciudad de Palmira (Valle del Cauca) y puesta en marcha",
+        "valorInicial": "$113,547,086,172",
+        "valorAdicionado": "$$693,020,500",
+        "valorFinal": "$115,382,685,593",
+        "fechaInicio": "28/diciembre/2018",
+        "fechaTerminacionInicial": "28/junio/2020",
+        "fechaTerminacionActual": "Incierta",
+        "cantidadOtrosi": "4",
+        "tiempoRetraso": "54 meses",
+        "estado": "https://youtu.be/lDoaCAHM-T4?t=116 La Alcaldía de Palmira de Oscar Escobar realizó la Declaratoria de caducidad del Contrato MP-1603-2018: (i) Declarar el incumpliento grave de las obligaciones contractuales relacionadas en las Resoluciones 071 del 01 de junio del 2022 y la Resolución 085 del 28 de junio de 2022. ii) La generación de la inhabilidad para participar en procesos de selección y para celebrar contratos estatales por cinco (5) años. iii) La indicación de quién o cuáles de sus integrantes dieron lugar a dicha declaratoria de caducidad. iv) La orden del pago por concepto de clausula penal (multa de 4.100 millones de pesos). v) Dar por terminado el vinculo contractual, sin indemnización al contratista y liquidar el contrato en el estado que se encuentre. Las obras ejecutadas y materiales quedaron en abandono. Victor Ramos anuncia nuevos estudios técnicos y más de 130 mil millones de pesos para volver a intentar construir la PTAR, 60 mil provienen de la CVC, 68 mil millones de la Alcaldía.",
+        "enlaceSECOP": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.572612",
+        "location": {
+            "lat": 3.50326,
+            "lng": -76.33041
+        }
+    },
+     {
+        "id": 19, 
         "videoId": "qZCBGWG-SzY",
         "nombreObra": "Nombre",
         "proyecto": "Nombre proyecto o programa",
@@ -365,29 +411,6 @@
         "location": {
             "lat": 3.55301,
             "lng": -76.29763
-        }
-    },
-    {
-        "id": 17, 
-        "videoId": "qZCBGWG-SzY",
-        "nombreObra": "PTAR - Palmira",
-        "proyecto": "Planta de Tratamiento de Aguas Residuales - Ex Alcalde Jairo Samboni",
-        "contrato": "1.320-59.2-01-0151",
-        "contratista": "CONSORCIO PTAR PW (Inhabilitado)",
-        "objetoContractual": "Construcción de la primera fase de colectores, planta de tratamiento de aguas residuales para la ciudad de Palmira (Valle del Cauca) y puesta en marcha",
-        "valorInicial": "$33,000,000,000",
-        "valorAdicionado": "$115,382,685,593",
-        "valorFinal": "$115.382.685.593",
-        "fechaInicio": "00/julio/2017",
-        "fechaTerminacionInicial": "30/noviembre/2021",
-        "fechaTerminacionActual": "01/06/2023",
-        "cantidadOtrosi": "0",
-        "tiempoRetraso": "24 meses",
-        "estado": "La Alcaldía de Palmira de Oscar Escobar realizó la Declaratoria de caducidad del Contrato MP-1603-2018 y, con siguientes efectos jurídicos: (i) Declarar el incumpliento grave de las obligaciones contractuales relacionadas en las Resoluciones 071 del 01 de junio del 2022 y la Resolución 085 del 28 de junio de 2022. ii) La generación de la inhabilidad para participar en procesos de selección y para celebrar contratos estatales por cinco (5) años. iii) La indicación de quién o cuáles de sus integrantes dieron lugar a dicha declaratoria de caducidad. iv) La orden del pago por concepto de clausula penal (multa de 4.100 millones de pesos). v) Dar por terminado el vinculo contractual, sin indemnización al contratista y liquidar el contrato en el estado que se encuentre. Construcción entregada con problemas de diseño y seguridad",
-        "enlaceSECOP": "https://community.secop.gov.co/Public/Tendering/OpportunityDetail/Index?noticeUID=CO1.NTC.572612",
-        "location": {
-            "lat": 3.50326,
-            "lng": -76.33041
         }
     }
 ]
